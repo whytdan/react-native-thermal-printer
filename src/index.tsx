@@ -74,7 +74,7 @@ let defaultConfig: PrintTcpInterface & PrintBluetoothInterface = {
   printerWidthMM: 80,
   printerNbrCharactersPerLine: 42,
   timeout: 30000,
-  encoding: 'UTF-8',
+  encoding: 'CP866',
   charsetId: 0,
 };
 
